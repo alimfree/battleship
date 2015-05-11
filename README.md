@@ -4,3 +4,5 @@ dependencies: prompt, node
 
 npm install prompt
 
+play game: node game.js
+
